@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Counter",
+    "slug": "counter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
